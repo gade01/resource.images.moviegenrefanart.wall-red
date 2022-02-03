@@ -1,2 +1,5 @@
+[B]0.0.2 (3-March-21)[/B]
+- Update addon.xml
+
 [B]0.0.1 (5-September-15)[/B]
 - Initial release
